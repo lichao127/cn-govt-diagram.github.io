@@ -1,4 +1,4 @@
-# cn-govt-diagram.github.io
+# lichao127.github.io
 
 中国历代政府结构 (Chinese Government Structure Throughout History)
 
@@ -17,8 +17,8 @@ We welcome contributions from historians, developers, and anyone interested in C
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/cn-govt-diagram.github.io.git
-   cd cn-govt-diagram.github.io
+   git clone https://github.com/lichao127/lichao127.github.io.git
+   cd lichao127.github.io
    ```
 
 2. **Install dependencies**
